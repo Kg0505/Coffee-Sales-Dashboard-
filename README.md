@@ -6,7 +6,7 @@ This project focuses on building a **Power BI dashboard** to analyze and visuali
 ---
 
 ## 🖼 Dashboard Preview  
-![Coffee Sales Dashboard](https://github.com/kg0505/Coffee-Sales-Dashboard/blob/main/Coffee%20Sales%20Dashboard.png)
+![Coffee Sales Dashboard](Coffee%20Sales%20Dashboard.png)
  
 
 ---
