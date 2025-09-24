@@ -6,7 +6,7 @@ This project focuses on building a **Power BI dashboard** to analyze and visuali
 ---
 
 ## 🖼 Dashboard Preview  
-![Dashboard Screenshot](path/to/your/image.png)  
+![Dashboard Screenshot]("Coffee Sales Dashboard.png")  
 
 ---
 
