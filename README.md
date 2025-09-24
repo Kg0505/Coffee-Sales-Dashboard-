@@ -3,6 +3,12 @@
 ## 📌 Project Overview  
 This project focuses on building a **Power BI dashboard** to analyze and visualize the sales performance of a coffee shop. The goal was to uncover actionable insights into revenue, orders, product performance, and time/location-based sales trends.  
 
+
+## 📊 Interactive Coffee Sales Dashboard  
+
+You can explore the dashboard here:  
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjg0N2NkNmMtNjkxYi00ODI2LTk5YjUtMjZhMTAwMDM5MWJhIiwidCI6IjQyNjg4YzNjLTg2YzEtNDVmMC04NmUxLTAxNzI1ZmVmMDRhYSJ9)
+
 ---
 
 ## 🖼 Dashboard Preview  
